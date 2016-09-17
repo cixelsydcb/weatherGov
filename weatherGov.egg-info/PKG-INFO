@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: weatherGov
+Version: 0.1.0
+Summary: weatherGov is a simple wrapper to grab weather data from forecast.weather.gov for a given latitude and longitude derived through google's geocode API (key required)
+Home-page: https://www.github.com/cixelsydcb/weatherGov
+Author: Charles Keith Brown
+Author-email: charles.k.brown@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: weatherGov Weather WeatherGov
+Platform: UNKNOWN
